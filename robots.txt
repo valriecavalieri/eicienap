@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kasiengae.jbkayconstruction.com/sitemap.xml
